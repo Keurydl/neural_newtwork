@@ -22,8 +22,8 @@ An educational implementation of a multilayer neural network (MLP) from scratch 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-user/mlp-neural-network.git
-cd mlp-neural-network
+git clone https://github.com/your-user/neural-network.git
+cd neural-network
 ```
 
 2. Create a virtual environment (recommended):
